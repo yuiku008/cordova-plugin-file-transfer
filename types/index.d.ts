@@ -5,8 +5,7 @@
 //
 // Copyright (c) Microsoft Open Technologies Inc
 // Licensed under the MIT license
-
-/// <reference types="cordova-plugin-file" />
+ 
 
 /**
  * The FileTransfer object provides a way to upload files using an HTTP multi-part POST request,
