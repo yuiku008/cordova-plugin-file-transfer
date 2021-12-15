@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-file-transfer",
+  "name": "ordova-plugin-file-transfer2",
   "version": "2.0.0-dev",
   "description": "Cordova File Transfer Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-file-transfer",
+    "id": "ordova-plugin-file-transfer2",
     "platforms": [
       "android",
       "ios",

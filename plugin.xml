@@ -20,7 +20,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="cordova-plugin-file-transfer"
+    id="cordova-plugin-file-transfer2"
     version="2.0.0-dev">
     <name>File Transfer</name>
     <description>Cordova File Transfer Plugin</description>
@@ -29,7 +29,7 @@
     <repo>https://github.com/apache/cordova-plugin-file-transfer</repo>
     <issue>https://github.com/apache/cordova-plugin-file-transfer/issues</issue>
 
-    <dependency id="cordova-plugin-file" version=">=5.0.0" />
+    <dependency id="cordova-plugin-file2" version=">=5.0.0" />
 
     <js-module src="www/FileTransferError.js" name="FileTransferError">
         <clobbers target="window.FileTransferError" />
